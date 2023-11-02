@@ -4,8 +4,8 @@ import './Home.css';
 
 const Footer = () => {
     const handleEmailClick = (email) => {
-        const mailtoLink = `mailto:${email}`;
-        window.location.href = mailtoLink;
+        // const mailtoLink = `mailto:${email}`;
+        // window.location.href = mailtoLink;
     };
     return (
         <section class="Footer">
