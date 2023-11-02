@@ -22,7 +22,7 @@ const Footer = () => {
                                 <a href="tel:1234567890" className='pb-2 text-white text-decoration-none'> <i className='fa fa-phone' /> <span className='ms-2'> Call +01 1234567890 </span> </a>
                             </div>
                             <div className='d-flex flex-column'>
-                                // <a href="" className='pb-2 text-white text-decoration-none' onClick={handleEmailClick('demo@gmail.com')}> <i className='fa fa-envelope' /> <span className='ms-2'> demo@gmail.com </span> </a>
+                                <a href="" className='pb-2 text-white text-decoration-none' onClick={handleEmailClick('demo@gmail.com')}> <i className='fa fa-envelope' /> <span className='ms-2'> demo@gmail.com </span> </a>
                             </div>
 
                         </div>
