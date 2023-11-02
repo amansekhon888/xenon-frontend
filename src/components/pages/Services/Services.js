@@ -31,7 +31,7 @@ const Services = () => {
                     </div>
                 </div>
                 <div class="d-grid gap-2 d-md-flex justify-content-md-center pt-5">
-                    <a href="" className='btn btn-outline-primary fs-5 fw-semibold'>
+                    <a href="!#" className='btn btn-outline-primary fs-5 fw-semibold'>
                         View All
                     </a>
                 </div>
