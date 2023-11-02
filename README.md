@@ -1,5 +1,7 @@
 Project Name: Service Website
+
 A full-stack MERN (MongoDB, Express, React, Node.js) service website designed to provide a seamless and secure experience for users. We offer a wide range of services and features that make your experience on our platform both informative and convenient.
+
 TECHNOLOGIES USED:
 List the technologies, frameworks, and libraries you used in your project. For a MERN stack application, this typically includes:
 •	MongoDB
