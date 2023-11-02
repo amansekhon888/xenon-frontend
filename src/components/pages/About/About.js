@@ -32,7 +32,7 @@ const About = () => {
                             <p>
                                 Molestiae odio earum non qui cumque provident voluptates, repellendus exercitationem, possimus at iste corrupti officiis unde alias eius ducimus reiciendis soluta eveniet. Nobis ullam ab omnis quasi expedita.
                             </p>
-                            <a href="" className='btn btn-outline-primary fw-semibold fs-5'>
+                            <a href="!#" className='btn btn-outline-primary fw-semibold fs-5'>
                                 Read More
                             </a>
                         </div>
